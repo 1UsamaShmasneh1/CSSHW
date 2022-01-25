@@ -1,0 +1,20 @@
+body
+{
+    background-color: aquamarine;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.classTable
+{
+    background-color: yellow;
+}
+
+#id1
+{
+    font-size: 16px;
+}
